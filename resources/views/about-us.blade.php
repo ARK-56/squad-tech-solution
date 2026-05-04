@@ -143,22 +143,10 @@
         <div class="offices banner-flex">
             <div class="office">
                 <i class="fa-regular fa-building" style="color: #000000;"></i>
-                <h3>USA Office</h3>
-                <p>428 Southwest 80th Avenue,
-                    North Lauderdale, Florida
-                    33068</p>
-            </div>
-            <div class="office">
-                <i class="fa-regular fa-building" style="color: #000000;"></i>
-                <h3>Pakistan Office</h3>
-                <p>75 Hamid Hussain Farooqi Rd, Block 2 PECHS, Karachi, 75100</p>
-            </div>
-            <div class="office">
-                <i class="fa-regular fa-building" style="color: #000000;"></i>
-                <h3>UK Office</h3>
-                <p>The Garage,
-                    114 Markhouse Road,
-                    E17 8BG, London</p>
+                <h3>Office</h3>
+                <p>276 Holten Ave,
+                    Staten Island, NY
+                    10309</p>
             </div>
         </div>
     </div>

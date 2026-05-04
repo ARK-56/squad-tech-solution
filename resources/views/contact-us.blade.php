@@ -31,12 +31,13 @@
         <div class="contact">
             <h2 class="bg mbot-10 font-30">Contact Info</h2>
             <h3 class="mbot-10">Let's Talk.</h3>
-            <p>info@squadtechsol.com</p>
+            <p>inquiry@squadtechsol.com</p>
+            <p>+1 (201) 820-6889</p>
 
             <h3 class="mtop-10 mbot-10">Visit Us.</h3>
-            <p>428 Southwest 80th Avenue,</p>
-            <p>North Lauderdale, Florida,</p>
-            <p>33068</p>
+            <p>276 Holten Ave,</p>
+            <p>Staten Island, NY</p>
+            <p>10309</p>
         </div>
     </div>
     @php
