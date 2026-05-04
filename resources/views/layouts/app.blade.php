@@ -34,6 +34,12 @@
                 <img src="{{ asset('images/logo.webp') }}" alt="squadtech-logo" />
             </a>
         </div>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav"
+            aria-label="Toggle navigation">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
         <div id="nav">
             <ul>
                 <a href="/">

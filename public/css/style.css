@@ -151,6 +151,42 @@ header #nav {
     padding: 2%;
 }
 
+.nav-toggle {
+    display: none;
+    position: relative;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+    padding: 10px;
+    margin: auto 0;
+    overflow: hidden;
+}
+
+.nav-toggle span {
+    display: block;
+    position: absolute;
+    left: 50%;
+    width: 24px;
+    height: 2px;
+    margin: 0;
+    background-color: var(--black);
+    transition: 0.2s ease all;
+    transform: translateX(-50%);
+    transform-origin: center;
+}
+
+.nav-toggle span:nth-child(1) {
+    top: 14px;
+}
+
+.nav-toggle span:nth-child(2) {
+    top: 21px;
+}
+
+.nav-toggle span:nth-child(3) {
+    top: 28px;
+}
+
 header #nav ul {
     text-align: right;
     padding-top: 5px;
@@ -744,6 +780,8 @@ footer {
     border-radius: 30px;
     border: 1px solid grey;
     margin-right: 10px;
+    box-sizing: border-box;
+    object-fit: contain;
 }
 
 .linkedin {
@@ -912,9 +950,9 @@ footer {
 }
 
 .whatsapp {
-    width: 25px !important;
-    height: 25px !important;
-    padding: 35% !important;
+    width: 50px !important;
+    height: 50px !important;
+    padding: 10px !important;
     position: relative;
 }
 

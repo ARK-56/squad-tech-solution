@@ -247,17 +247,17 @@
             <h2 class="bg font-40 mtop-20 mbot-20">Our Logo Samples</h2>
         </div>
         <div class="slider-btns">
-            <button class="slide-arrow" id="slide-arrow-prev">
+            <button class="slide-arrow slide-arrow-prev" type="button">
                 &#8249;
             </button>
-            <button class="slide-arrow" id="slide-arrow-next">
+            <button class="slide-arrow slide-arrow-next" type="button">
                 &#8250;
             </button>
         </div>
     </div>
-    <div class="slider">
+    <div class="slider work-samples-slider">
         <div class="slider-wrapper">
-            <div class="slides-container" id="slides-container">
+            <div class="slides-container">
                 <div class="slide logo"><img src="{{ asset('images/logos/sample-one.webp') }}" alt="project-img-2" />
                 </div>
                 <div class="slide logo"><img src="{{ asset('images/logos/sample-three.webp') }}" alt="project-img-3" />
@@ -310,17 +310,17 @@
             <h2 class="bg font-40 mtop-20 mbot-20">Our Website Samples</h2>
         </div>
         <div class="slider-btns">
-            <button class="slide-arrow" id="slide-arrow-prev">
+            <button class="slide-arrow slide-arrow-prev" type="button">
                 &#8249;
             </button>
-            <button class="slide-arrow" id="slide-arrow-next">
+            <button class="slide-arrow slide-arrow-next" type="button">
                 &#8250;
             </button>
         </div>
     </div>
-    <div class="slider">
+    <div class="slider work-samples-slider">
         <div class="slider-wrapper">
-            <div class="slides-container" id="slides-container">
+            <div class="slides-container">
                 <div class="slide"><img src="{{ asset('images/projects/sample-two.webp') }}" alt="project-img-2" />
                 </div>
                 <div class="slide"><img src="{{ asset('images/projects/sample-three.webp') }}" alt="project-img-3" />
